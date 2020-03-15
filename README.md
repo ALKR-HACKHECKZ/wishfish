@@ -6,7 +6,7 @@ $ apt update
 
 $ apt upgrade
 
-$ git clone https://github.com/alkr-hackheckz/WishFish.git
+$ git clone https://github.com/alkr-hackheckz/wishfish.git
 
 $ cd WishFish
 
