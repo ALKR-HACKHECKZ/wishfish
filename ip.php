@@ -27,4 +27,5 @@ fwrite($fp, $browser);
 
 
 fclose($fp);
-© 2020 GitHub, Inc.
+
+  
