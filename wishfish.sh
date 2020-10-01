@@ -2,7 +2,8 @@
 # coded by: github.com/thelinuxchoice/saycheese
 # Modified by: github.com/alkr-hackheckz/wishfish
 # If you use any part from this code, giving me the credits. Read the Lincense!
-
+printf 'Created by github.com/thelinuxchoice/saycheese'
+printf 'Modified by github.com/alkr-hackheckz/wishfish'
 trap 'printf "\n";stop' 2
 
 banner() {
